@@ -7,3 +7,6 @@ DFVDFVDFVDFV
 DFVDFVDFVDFVDFV
 DFVDFVDFVFVDFVDFVdfdsfdsfsdfsdfsdsdfsdffsdfsdf
 DFVDFVDFVDFVDFVDFVFisidfjsdjfksldcklsdnclskdcnV
+
+
+THIS CHANGE should't shown in git2
